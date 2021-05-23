@@ -1,0 +1,221 @@
+<RCC>
+  <qresource prefix="icon_image">
+    <file>images/progress_bar-001.png</file>
+    <file>images/bike-001.png</file>
+    <file>images/progress_bar-001.png</file>
+    <file>images/order_detail-001 (1).png</file>
+    <file>images/order_detail-001.png</file>
+    <file>images/order_detail-001 (1).png</file>
+    <file>images/order_detail-001.png</file>
+    <file>images/detail_title-001.png</file>
+    <file>images/history_title-001.png</file>
+    <file>images/mcdo-001.png</file>
+    <file>images/sdburger-001.png</file>
+    <file>images/dolino-001.png</file>
+    <file>images/ywpizza-001.png</file>
+    <file>images/bybyq-001.png</file>
+    <file>images/sjchicken-001.png</file>
+    <file>images/gi-001.png</file>
+    <file>images/ruo-001.png</file>
+    <file>images/dgbj-001.png</file>
+    <file>images/shbj-001.png</file>
+    <file>images/sun-001.png</file>
+    <file>images/sh-001.png</file>
+    <file>images/uram-001.png</file>
+    <file>images/bbosik-001.png</file>
+    <file>images/back_btn-001 (1).png</file>
+    <file>images/back_btn-001.png</file>
+    <file>images/buy_btn-001 (1).png</file>
+    <file>images/buy_btn-001.png</file>
+    <file>images/pay_btn2-001 (1).png</file>
+    <file>images/pay_btn2-001.png</file>
+    <file>images/add_cart-001 (1).png</file>
+    <file>images/add_cart-001.png</file>
+    <file>images/back_btn-001 (1).png</file>
+    <file>images/back_btn-001.png</file>
+    <file>images/logout_btn-001.png</file>
+    <file>images/login_btn-001.png</file>
+    <file>images/signup_btn-001.png</file>
+    <file>images/buy_btn-001 (1).png</file>
+    <file>images/buy_btn-001.png</file>
+    <file>images/pay_btn2-001 (1).png</file>
+    <file>images/pay_btn2-001.png</file>
+    <file>images/dish56-001.png</file>
+    <file>images/dish55-001.png</file>
+    <file>images/dish54-001.png</file>
+    <file>images/dish53-001.png</file>
+    <file>images/dish52-001.png</file>
+    <file>images/dish51-001.png</file>
+    <file>images/dish50-001.png</file>
+    <file>images/dish49-001.png</file>
+    <file>images/dish48-001.png</file>
+    <file>images/dish47-001.png</file>
+    <file>images/dish46-001.png</file>
+    <file>images/dish45-001.png</file>
+    <file>images/dish44-001.png</file>
+    <file>images/dish43-001.png</file>
+    <file>images/dish42-001.png</file>
+    <file>images/dish41-001.png</file>
+    <file>images/dish40-001.png</file>
+    <file>images/dish39-001.png</file>
+    <file>images/dish38-001.png</file>
+    <file>images/dish37-001.png</file>
+    <file>images/dish36-001.png</file>
+    <file>images/dish35-001.png</file>
+    <file>images/dish34-001.png</file>
+    <file>images/dish33-001.png</file>
+    <file>images/dish32-001.png</file>
+    <file>images/dish31-001.png</file>
+    <file>images/dish30-001.png</file>
+    <file>images/dish29-001.png</file>
+    <file>images/dish28-001.png</file>
+    <file>images/dish27-001.png</file>
+    <file>images/dish26-001.png</file>
+    <file>images/dish25-001.png</file>
+    <file>images/dish24-001.png</file>
+    <file>images/dish23-001.png</file>
+    <file>images/dish22-001.png</file>
+    <file>images/dish21-001.png</file>
+    <file>images/dish20-001.png</file>
+    <file>images/dish19-001.png</file>
+    <file>images/dish18-001.png</file>
+    <file>images/dish17-001.png</file>
+    <file>images/dish16-001.png</file>
+    <file>images/dish14-001.png</file>
+    <file>images/dish15-001.png</file>
+    <file>images/dish13-001.png</file>
+    <file>images/dish12-001.png</file>
+    <file>images/dish11-001.png</file>
+    <file>images/dish10-001.png</file>
+    <file>images/dish9-001.png</file>
+    <file>images/dish8-001.png</file>
+    <file>images/dish7-001.png</file>
+    <file>images/dish6-001.png</file>
+    <file>images/dish5-001.png</file>
+    <file>images/dish1-001.png</file>
+    <file>images/dish4-001.png</file>
+    <file>images/dish3-001.png</file>
+    <file>images/dish2-001.png</file>
+    <file>images/dish1-001.png</file>
+    <file>images/dish4-001.png</file>
+    <file>images/dish3-001.png</file>
+    <file>images/dish2-001.png</file>
+    <file>images/review_btn-001 (1).png</file>
+    <file>images/review_btn-001.png</file>
+    <file>images/info_btn-001 (1).png</file>
+    <file>images/info_btn-001.png</file>
+    <file>images/menu_btn-001 (1).png</file>
+    <file>images/menu_btn-001.png</file>
+    <file>images/pay_btn-001 (1).png</file>
+    <file>images/pay_btn-001.png</file>
+    <file>images/add_cart-001 (1).png</file>
+    <file>images/add_cart-001.png</file>
+    <file>images/edit_btn-001 (1).png</file>
+    <file>images/edit_btn-001.png</file>
+    <file>images/call_btn-001 (1).png</file>
+    <file>images/call_btn-001.png</file>
+    <file>images/call_pizza-001.png</file>
+    <file>images/call_japanese-001.png</file>
+    <file>images/call_burger-001.png</file>
+    <file>images/call_korean-001.png</file>
+    <file>images/call_chinese-001.png</file>
+    <file>images/call_chicken-001.png</file>
+    <file>images/call_bunsik-001.png</file>
+    <file>images/logo-001.png</file>
+    <file>images/login-001 (1).png</file>
+    <file>images/login-001.png</file>
+    <file>images/findpw-001 (1).png</file>
+    <file>images/findpw-001.png</file>
+    <file>images/signup-001 (1).png</file>
+    <file>images/signup-001.png</file>
+    <file>images/pw-001.png</file>
+    <file>images/id-001.png</file>
+    <file>images/profile_image-001 (1).png</file>
+    <file>images/profile_image-001.png</file>
+    <file>images/my_info_amend_str-001 (1).png</file>
+    <file>images/my_info_amend_str-001.png</file>
+    <file>images/my_info_str-001 (1).png</file>
+    <file>images/my_info_str-001.png</file>
+    <file>images/myinfo_title-001.png</file>
+    <file>images/pay-001 (1).png</file>
+    <file>images/pay-001.png</file>
+    <file>images/like_title-001.png</file>
+    <file>images/pay_call_str-001 (1).png</file>
+    <file>images/pay_call_str-001.png</file>
+    <file>images/pay_card_str-001 (1).png</file>
+    <file>images/pay_card_str-001.png</file>
+    <file>images/like_str-001 (1).png</file>
+    <file>images/like_str-001.png</file>
+    <file>images/delivery_order-001 (1).png</file>
+    <file>images/takeout_order-001 (1).png</file>
+    <file>images/takeout_order-001 (1).png</file>
+    <file>images/takeout_order-001.png</file>
+    <file>images/delivery_order-001 (1).png</file>
+    <file>images/delivery_order-001.png</file>
+    <file>images/share-001 (1).png</file>
+    <file>images/share-001.png</file>
+    <file>images/like_-001 (1).png</file>
+    <file>images/like_-001.png</file>
+    <file>images/call-001 (1).png</file>
+    <file>images/call-001.png</file>
+    <file>images/visit_store-001 (1).png</file>
+    <file>images/visit_store-001.png</file>
+    <file>images/clear-001 (1).png</file>
+    <file>images/clear-001.png</file>
+    <file>images/search_char-001 (1).png</file>
+    <file>images/search_char-001.png</file>
+    <file>images/back-001 (1).png</file>
+    <file>images/back-001.png</file>
+    <file>images/ad17.jpg</file>
+    <file>images/working-001 (1).png</file>
+    <file>images/working-001.png</file>
+    <file>images/bunsik-001 (1).png</file>
+    <file>images/bunsik-001.png</file>
+    <file>images/fastfood-001 (1).png</file>
+    <file>images/fastfood-001.png</file>
+    <file>images/pizza-001 (1).png</file>
+    <file>images/pizza-001.png</file>
+    <file>images/chicken-001 (1).png</file>
+    <file>images/chicken-001.png</file>
+    <file>images/china-001 (1).png</file>
+    <file>images/china-001.png</file>
+    <file>images/japan-001 (1).png</file>
+    <file>images/japan-001.png</file>
+    <file>images/korean-001.png</file>
+    <file>images/korean-001 (1).png</file>
+    <file>images/ad16.jpg</file>
+    <file>images/ad15.jpg</file>
+    <file>images/ad14.jpg</file>
+    <file>images/ad13.jpg</file>
+    <file>images/ad12.jpg</file>
+    <file>images/ad11.jpg</file>
+    <file>images/ad10.jpg</file>
+    <file>images/ad9.jpg</file>
+    <file>images/ad8.jpg</file>
+    <file>images/ad7.jpg</file>
+    <file>images/ad6.jpg</file>
+    <file>images/ad5.jpg</file>
+    <file>images/ad4.jpg</file>
+    <file>images/ad3.jpg</file>
+    <file>images/ad2.jpg</file>
+    <file>images/ad1.jpg</file>
+    <file>images/takeout_char-001 (1).png</file>
+    <file>images/takeout_char-001.png</file>
+    <file>images/delivery_char-001 (1).png</file>
+    <file>images/delivery_char-001.png</file>
+    <file>images/search_small-001 (1).png</file>
+    <file>images/search_small-001.png</file>
+    <file>images/notification-001 (1).png</file>
+    <file>images/notification-001.png</file>
+    <file>images/home-001 (1).png</file>
+    <file>images/home-001.png</file>
+    <file>images/search-001 (1).png</file>
+    <file>images/search-001.png</file>
+    <file>images/like-001 (1).png</file>
+    <file>images/like-001.png</file>
+    <file>images/history-001 (1).png</file>
+    <file>images/history-001.png</file>
+    <file>images/myinfo-001.png</file>
+    <file>images/myinfo-001 (1).png</file>
+  </qresource>
+</RCC>
