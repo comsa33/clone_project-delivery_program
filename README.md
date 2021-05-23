@@ -1,6 +1,7 @@
 # delivery_program
 DELIVERY PROGRAM FOR USERS, BUSINESS OWNERS, MANAGERS
 
+[FOR CUSTOMER]
 ![image](https://user-images.githubusercontent.com/61719257/119261805-fa9e2200-bc13-11eb-839f-fa53acce4fd5.png)
 ![image](https://user-images.githubusercontent.com/61719257/119261816-0558b700-bc14-11eb-895f-1859db90f452.png)
 ![image](https://user-images.githubusercontent.com/61719257/119261823-10134c00-bc14-11eb-8926-5ce97dbe716f.png)
@@ -13,3 +14,5 @@ DELIVERY PROGRAM FOR USERS, BUSINESS OWNERS, MANAGERS
 ![image](https://user-images.githubusercontent.com/61719257/119261912-59639b80-bc14-11eb-8f08-12b4a03e3b1f.png)
 ![image](https://user-images.githubusercontent.com/61719257/119261919-61bbd680-bc14-11eb-8673-9d965b7142ea.png)
 ![image](https://user-images.githubusercontent.com/61719257/119261952-8021d200-bc14-11eb-955f-8d60bf88a3d6.png)
+
+[FOR BUSINESS]
