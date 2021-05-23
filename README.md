@@ -1,7 +1,8 @@
 # delivery_program
 DELIVERY PROGRAM FOR USERS, BUSINESS OWNERS, MANAGERS
 
-[FOR CUSTOMER]
+# [FOR CUSTOMER]
+
 ![image](https://user-images.githubusercontent.com/61719257/119261805-fa9e2200-bc13-11eb-839f-fa53acce4fd5.png)
 ![image](https://user-images.githubusercontent.com/61719257/119261816-0558b700-bc14-11eb-895f-1859db90f452.png)
 ![image](https://user-images.githubusercontent.com/61719257/119261823-10134c00-bc14-11eb-8926-5ce97dbe716f.png)
@@ -15,11 +16,14 @@ DELIVERY PROGRAM FOR USERS, BUSINESS OWNERS, MANAGERS
 ![image](https://user-images.githubusercontent.com/61719257/119261919-61bbd680-bc14-11eb-8673-9d965b7142ea.png)
 ![image](https://user-images.githubusercontent.com/61719257/119261952-8021d200-bc14-11eb-955f-8d60bf88a3d6.png)
 
-[FOR BUSINESS]
+
+#[FOR BUSINESS]
+
 ![image](https://user-images.githubusercontent.com/61719257/119280556-eb978e00-bc6c-11eb-8961-55ff9ca9a72d.png)
 ![image](https://user-images.githubusercontent.com/61719257/119280583-0407a880-bc6d-11eb-8f7c-d79a72738a70.png)
 ![image](https://user-images.githubusercontent.com/61719257/119280601-0f5ad400-bc6d-11eb-8768-2d406a444641.png)
 ![image](https://user-images.githubusercontent.com/61719257/119280613-1f72b380-bc6d-11eb-8be2-478467c29786.png)
 ![image](https://user-images.githubusercontent.com/61719257/119280622-2994b200-bc6d-11eb-8912-b124665d8251.png)
 
-[FOR CORPORATION]
+#[FOR CORPORATION]
+
